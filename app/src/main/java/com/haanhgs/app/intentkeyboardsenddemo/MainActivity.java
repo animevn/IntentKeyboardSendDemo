@@ -5,7 +5,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.inputmethod.EditorInfo;
-import android.view.inputmethod.InputMethod;
 import android.widget.EditText;
 import androidx.appcompat.app.AppCompatActivity;
 import butterknife.BindView;
