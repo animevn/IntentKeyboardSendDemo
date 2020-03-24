@@ -1,4 +1,4 @@
-package com.haanhgs.app.intentkeyboardsenddemo;
+package com.haanhgs.app.keyboardsend;
 
 import android.content.Intent;
 import android.net.Uri;

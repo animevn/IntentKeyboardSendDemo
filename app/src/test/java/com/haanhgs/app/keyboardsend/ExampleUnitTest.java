@@ -1,4 +1,4 @@
-package com.haanhgs.app.intentkeyboardsenddemo;
+package com.haanhgs.app.keyboardsend;
 
 import org.junit.Test;
 
